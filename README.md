@@ -12,12 +12,12 @@ Keyboard  Deafult WASD for move,E,F to interact,Escape for pause, but you can cu
 
 ![Title screen](https://raw.githubusercontent.com/DarioD19/MasterBurgerGame/main/Screnshoots/MasterBurger.04.png)
 
-![Play Screen](https://raw.githubusercontent.com/DarioD19/MasterBurgerGame/main/Screnshoots/MasterBurger.02.png)
+![Play Screen01](https://raw.githubusercontent.com/DarioD19/MasterBurgerGame/6c76068a591a133023e4f33bd9111a1d48afd6e2/Screnshoots/MasterBurger.05.png)
 
-![Play Screen01](https://raw.githubusercontent.com/DarioD19/MasterBurgerGame/main/Screnshoots/MasterBurger.03.png)
-
-![Play Screen02](https://raw.githubusercontent.com/DarioD19/MasterBurgerGame/6c76068a591a133023e4f33bd9111a1d48afd6e2/Screnshoots/MasterBurger.05.png)
+![Play Screen02](https://raw.githubusercontent.com/DarioD19/MasterBurgerGame/main/Screnshoots/MasterBurger.03.png)
 
 ![Play Screen03](https://raw.githubusercontent.com/DarioD19/MasterBurgerGame/main/Screnshoots/MasterBurger.picture.png)
+
+
 
 
